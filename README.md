@@ -1,16 +1,14 @@
 # coffee_app_ui
 
-A new Flutter project.
+Screenshots:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![1](https://github.com/user-attachments/assets/1261686d-e368-4972-b1f6-187a9aad05fa)
 
-A few resources to get you started if this is your first Flutter project:
+![2](https://github.com/user-attachments/assets/c418ca0a-00b7-4387-a2a7-01de1750c0b1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![3](https://github.com/user-attachments/assets/1db768c3-a3a8-4c79-b1ac-9197c739b56f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/user-attachments/assets/8ad512a5-c870-4509-a0fb-bde3c40710a6)
+
+![5](https://github.com/user-attachments/assets/7c61c2be-9c41-40be-b553-1b213e5271d1)
